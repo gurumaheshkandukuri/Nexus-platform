@@ -2,19 +2,16 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Nexus Platform
 
-This contains everything you need to run your app locally.
+A unified educational hub designed to bridge the gap between students and teachers with real-time management.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1h5-pK3pk2MQF5lAcgLneYgie3T63Dm8s
+## Features
+- **Real-time Dashboards:** Instant updates for class schedules.
+- **Secure Access:** Dedicated views for Students, Educators, and Admins.
+- **Modern UI:** Responsive design built with React and Tailwind CSS.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Tech Stack
+- **Frontend:** React.js, TypeScript
+- **Backend:** Firebase (Firestore, Auth)
+- **Styling:** Tailwind CSS
