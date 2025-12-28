@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Nexus - Education Platform-1",
+  "description": "A comprehensive platform for students, educators, and admins to manage classrooms, announcements, and events with real-time feedback and Google Calendar integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
